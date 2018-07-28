@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Apiupdaterr/Farms
+branches:
+- master
+projects:
+  Farms:
+    path: ""
+...
